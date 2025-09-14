@@ -1,11 +1,11 @@
 # ProDev Frontend Engineering – Learning Documentation
-# Overview
+## Overview
 The ProDev Frontend Engineering Program by ALX is an intensive, hands-on course designed to equip learners with modern frontend engineering skills. It emphasizes real-world project building, industry-standard practices, and collaboration through capstone projects such as Project Nexus.
 
 The program covers web and mobile development, progressive web apps (PWA), and key tools in the frontend ecosystem. It prepares learners for professional frontend engineering roles by focusing on technical depth, system design, and problem-solving.
 
-Major Learnings
-Key Technologies Covered
+## Major Learnings
+### Key Technologies Covered
 Web Development: HTML5, CSS3, JavaScript (ES6+), TypeScript
 Frameworks & Libraries: React.js, Next.js
 Styling: TailwindCSS, Component-based design
@@ -14,7 +14,7 @@ Data & APIs: REST API integration, GraphQL
 State Management: React Context API, hooks, state patterns
 Tooling: GitHub, Vite, ESLint, Prettier, Expo
 System Design & Analysis: Application architecture, scalability principles
-Important Frontend Concepts
+### Important Frontend Concepts
 Next.js: Server-side rendering (SSR), static site generation (SSG), dynamic routing, API routes
 TailwindCSS: Utility-first styling, responsive design, custom configurations
 System Design & Analysis: Designing maintainable, scalable frontend architectures
