@@ -1,5 +1,5 @@
-#ProDev Frontend Engineering – Learning Documentation
-#Overview
+# ProDev Frontend Engineering – Learning Documentation
+# Overview
 The ProDev Frontend Engineering Program by ALX is an intensive, hands-on course designed to equip learners with modern frontend engineering skills. It emphasizes real-world project building, industry-standard practices, and collaboration through capstone projects such as Project Nexus.
 
 The program covers web and mobile development, progressive web apps (PWA), and key tools in the frontend ecosystem. It prepares learners for professional frontend engineering roles by focusing on technical depth, system design, and problem-solving.
